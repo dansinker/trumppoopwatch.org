@@ -28,3 +28,23 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# timeago settings
+jekyll_timeago:
+  depth: 2 # Level of detail
+  today: 'a few hours'
+  yesterday: '1 day'
+  tomorrow: 'tomorrow'
+  and: 'and'
+  suffix: ''
+  prefix: ''
+  suffix_future: ''
+  prefix_future: 'in'
+  years: 'years'
+  year: 'year'
+  months: 'months'
+  month: 'month'
+  weeks: 'weeks'
+  week: 'week'
+  days: 'days'
+  day: 'day'
