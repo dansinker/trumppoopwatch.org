@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Trump 💩 Watch
-description: Trump is probably a home pooper, meaning he's only comfortable going at a Trump-owned property. So how long has it been since he's pooped?
+description: Let's face it, Trump could be a home pooper. That explains why he goes to his own properties so much. So if he is, how long has it been since he's pooped?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dansinker
