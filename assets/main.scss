@@ -55,3 +55,30 @@ span.whee {
 span.clear {
   margin-left: 100px;
 }
+
+@media only screen and (max-width: 767px) {
+  h1, {
+    font-size: 2em;
+  }
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 1em;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#titlebox {
+  margin-bottom: 50px;
+}
+
+.site-footer {
+    border-top: 0;
+    margin-top: 25px;
+}
+
+}
