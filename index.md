@@ -12,5 +12,4 @@ layout: home
 
 <h2>It has been <time class="timeago" datetime="{{ site.data.trumps.poops[0].date }}">{{ site.data.trumps.poops[0].date }}</time> since Trump's last 💩</h2>
 
-<!--  <h2>It has been {{ site.data.trumps.poops[0].date | timeago }} since Trump's last 💩</h2> -->
-  <p>His last visit to his own property was the {{ site.data.trumps.poops[0].location }} on {{ site.data.trumps.poops[0].date | date: "%B %-d" }}. <a href="{{ site.data.trumps.poops[0].link }}">[source]</a></p> -->
+  <p>His last visit to his own property was {{ site.data.trumps.poops[0].location }} on {{ site.data.trumps.poops[0].date | date: "%B %-d" }}. <a href="{{ site.data.trumps.poops[0].link }}">[source]</a></p> 
