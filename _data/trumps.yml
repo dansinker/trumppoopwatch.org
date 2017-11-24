@@ -1,16 +1,21 @@
 poops:
-- location: Trump National Golf Club in Jupiter, Florida
+- location: Trump National Golf Club
+  city: Jupiter, Florida
   date: 2017-11-24
   link: https://twitter.com/realDonaldTrump/status/934031535757582336
-- location: Trump International Golf Club in West Palm Beach
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
   date: 2017-11-23
   link: http://thehill.com/homenews/administration/361679-trump-spends-thanksgiving-afternoon-at-golf-club
-- location: Trump International Golf Club in West Palm Beach
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
   date: 2017-11-22
   link: https://www.washingtonpost.com/news/politics/wp/2017/11/22/trumps-team-insists-he-has-a-full-schedule-an-hour-before-he-goes-golfing/?hpid=hp_hp-more-top-stories-2_trump-full-schedule-450pm%3Ahomepage%2Fstory&utm_term=.7097a6670fa7
 - location: Mar-a-Lago
+  city: Palm Beach, Florida
   date: 2017-11-21
   link: https://twitter.com/markknoller/status/933118963634114560
 - location: Trump International Hotel Waikiki
+  city: Honolulu, Hawaii
   date: 2017-11-4
   link: https://www.politico.com/story/2017/11/04/trump-waikiki-hotel-asia-trip-244548
