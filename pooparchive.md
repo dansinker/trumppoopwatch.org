@@ -5,7 +5,7 @@ layout: home
   <h2>💩 archive 💩</h2>
   <div class="list">
     {% for poop in site.data.trumps.poops %}
-      <p>Trump pooped at <b>{{ poop.location }}</b> in {{ poop.city }} on {{ poop.date | date: "%B %-d, %Y" }}</p>
+      <p>Trump pooped at <b>{{ poop.location }}</b> in {{ poop.city }} on {{ poop.date | date: "%B %-d, %Y" }} <a href="{{ poop.link }}">[source]</a></p>
     {% endfor %}
   </div>
 </div>
