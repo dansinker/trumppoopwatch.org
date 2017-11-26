@@ -1,4 +1,8 @@
 poops:
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-11-25
+  link: https://twitter.com/markknoller/status/934415994080186369
 - location: Trump National Golf Club
   city: Jupiter, Florida
   date: 2017-11-24
@@ -22,28 +26,28 @@ poops:
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-28
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-10-28
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-22
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-21
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-15
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-14
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-10-14
-  url: https://factba.se/topic/calendar
+  link: https://factba.se/topic/calendar

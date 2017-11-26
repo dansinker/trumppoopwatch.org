@@ -56,6 +56,16 @@ span.clear {
   margin-left: 100px;
 }
 
+div#archive p {
+  text-align: left;
+}
+
+div.list {
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 @media only screen and (max-width: 767px) {
   h1, {
     font-size: 2em;
@@ -79,6 +89,10 @@ p {
 .site-footer {
     border-top: 0;
     margin-top: 25px;
+}
+
+div.list {
+  width: 90%;
 }
 
 }
