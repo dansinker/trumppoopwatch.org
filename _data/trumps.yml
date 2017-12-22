@@ -1,4 +1,32 @@
 poops:
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-12-22
+  link: http://www.palmbeachpost.com/news/breaking-news/trump-palm-beach-trump-private-helicopter-lands-mar-lago/ZRgoIJXIZm1WX4DJvXAJRK/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-12-10
+  link: https://twitter.com/kylegriffin1/status/939872547960705024
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-12-10
+  link: https://twitter.com/kylegriffin1/status/939857268065161216
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-12-9
+  link: https://twitter.com/markknoller/status/939550648294658049
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-12-8
+  link: https://twitter.com/markknoller/status/939326075410223106
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-11-26
+  link: https://twitter.com/kylegriffin1/status/934795211510829056
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-11-25
+  link: https://twitter.com/markknoller/status/934415994080186369
 - location: Trump National Golf Club
   city: Jupiter, Florida
   date: 2017-11-24
@@ -19,3 +47,403 @@ poops:
   city: Honolulu, Hawaii
   date: 2017-11-4
   link: https://www.politico.com/story/2017/11/04/trump-waikiki-hotel-asia-trip-244548
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-28
+  link: http://publicpool.kinja.com/subject-wh-in-town-pool-report-3-1819941695
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2017-10-28
+  link: https://www.inquisitr.com/4585662/melania-donald-trumps-2-hour-date-night-photos-videos-via-instagrams-trump-international-hotel-location/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-22
+  link: https://twitter.com/EricLiptonNYT/status/922185089534124032
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-21
+  link: https://twitter.com/POTUS_Schedule/status/921755120634880002
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-15
+  link: https://twitter.com/wpjenna/status/919565701622456320
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-14
+  link: https://twitter.com/EricLiptonNYT/status/919359928845918209
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2017-10-14
+  link: https://twitter.com/EricLiptonNYT/status/919359928845918209
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-9
+  link: https://twitter.com/ABC/status/917518508489093120
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-8
+  link: https://twitter.com/W7VOA/status/917042576850587653
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-10-7
+  link: https://twitter.com/W7VOA/status/916667020753719296
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-10-1
+  link: https://www.washingtonpost.com/news/post-politics/wp/2017/09/30/on-twitter-trump-attacks-mayor-of-san-juan-for-poor-leadership-amid-deepening-crisis/?utm_term=.0f4e73538f64
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-30
+  link: https://www.washingtonpost.com/news/post-politics/wp/2017/09/30/on-twitter-trump-attacks-mayor-of-san-juan-for-poor-leadership-amid-deepening-crisis/?utm_term=.0f4e73538f64
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-29
+  link: https://www.washingtonpost.com/news/post-politics/wp/2017/09/30/on-twitter-trump-attacks-mayor-of-san-juan-for-poor-leadership-amid-deepening-crisis/?utm_term=.0f4e73538f64
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-24
+  link: https://twitter.com/markknoller/status/911448327602008066
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-23
+  link: https://twitter.com/markknoller/status/911448327602008066
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-22
+  link: https://twitter.com/markknoller/status/911448327602008066
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-21
+  link: http://www.nj.com/politics/index.ssf/2017/09/trump_lands_in_bedminster_for_another_stay.html
+- location: Trump Tower
+  city: New York City
+  date: 2017-9-20
+  link: https://www.politico.com/story/2017/09/14/trump-staying-manhattan-un-general-assembly-trump-tower-242744
+- location: Trump Tower
+  city: New York City
+  date: 2017-9-19
+  link: https://www.politico.com/story/2017/09/14/trump-staying-manhattan-un-general-assembly-trump-tower-242744
+- location: Trump Tower
+  city: New York City
+  date: 2017-9-18
+  link: https://www.politico.com/story/2017/09/14/trump-staying-manhattan-un-general-assembly-trump-tower-242744
+- location: Trump Tower
+  city: New York City
+  date: 2017-9-17
+  link: https://twitter.com/CREWcrew/status/909574601352650752
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-17
+  link: https://twitter.com/CREWcrew/status/909574601352650752
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-16
+  link: https://patch.com/us/white-house/president-trump-heads-bedminster-white-house-schedule-september-15
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-9-15
+  link: https://patch.com/us/white-house/president-trump-heads-bedminster-white-house-schedule-september-15
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-20
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-19
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-18
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-17
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-16
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-15
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump Tower
+  city: New York City
+  date: 2017-8-15
+  link: https://www.cbsnews.com/news/trump-on-charlottesville-i-think-theres-blame-on-both-sides/
+- location: Trump Tower
+  city: New York City
+  date: 2017-8-14
+  link: https://www.nytimes.com/2017/08/15/insider/trump-and-new-york-city.html?_r=0
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-13
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-12
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-11
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-10
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-9
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-8
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-7
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-6
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-5
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-8-4
+  link: https://www.washingtonpost.com/politics/president-trump-settles-in-for-17-day-vacation-at-his-secluded-new-jersey-club/2017/08/05/5c79347c-79d5-11e7-8f39-eeb7d3a2d304_story.html?utm_term=.22138ce95f42
+- location: Trump National Golf club
+  city: Potomac Falls, Virginia
+  date: 2017-7-30
+  link: http://www.washingtonexaminer.com/trump-makes-43rd-visit-to-golf-club-on-sunday/article/2630129
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2017-7-29
+  link: http://abcnews.go.com/Politics/trump-dines-john-kelly-steve-mnuchin-wilbur-ross/story?id=48931131
+- location: Trump National Golf club
+  city: Potomac Falls, Virginia
+  date: 2017-7-23
+  link: https://www.washingtonpost.com/news/politics/wp/2017/07/31/trump-had-a-terrible-july-but-at-least-he-played-a-lot-of-golf/?utm_term=.c62d33fb62a1
+- location: Trump National Golf club
+  city: Potomac Falls, Virginia
+  date: 2017-7-22
+  link: https://www.washingtonpost.com/news/politics/wp/2017/07/31/trump-had-a-terrible-july-but-at-least-he-played-a-lot-of-golf/?utm_term=.c62d33fb62a1
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-16
+  link: http://www.nj.com/sports/index.ssf/2017/07/president_donald_trump_at_us_womens_open_live_upda_1.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-15
+  link: https://www.reuters.com/article/us-golf-women-uschamp-trump/golf-trumps-presence-felt-at-u-s-womens-open-idUSKBN1A00RQ
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-14
+  link: http://www.latimes.com/politics/la-pol-updates-trump-tweets-saturday-july-15-htmlstory.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-13
+  link: http://www.latimes.com/politics/la-pol-updates-trump-tweets-friday-july-14-htmlstory.html
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-7-9
+  link: https://twitter.com/kylegriffin1/status/884054400062423040
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-7-4
+  link: http://thehill.com/blogs/blog-briefing-room/news/340606-trump-spends-july-4-at-his-virginia-golf-club
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-3
+  link: https://www.politico.com/story/2017/07/03/trump-schedule-today-240195
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-2
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-7-1
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-6-30
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-6-25
+  link: https://thegolfnewsnet.com/golfnewsnetteam/2017/06/25/donald-trump-visited-golf-31st-time-president-105659/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-6-24
+  link: http://thehill.com/blogs/blog-briefing-room/news/339302-trump-visits-his-virginia-golf-club-for-members-event
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-6-11
+  link: https://www.conservativedailynews.com/2017/06/president-donald-trumps-schedule-saturday-sunday-june-10-11-2017/
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-6-10
+  link: https://www.conservativedailynews.com/2017/06/president-donald-trumps-schedule-saturday-sunday-june-10-11-2017/
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-6-9
+  link: https://www.washingtonpost.com/video/national/trump-drives-golf-cart-on-golf-club-greens/2017/06/22/f6efe3fe-576e-11e7-840b-512026319da7_video.html?utm_term=.b38bea516546
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-6-4
+  link: http://www.washingtonexaminer.com/trump-heads-to-his-golf-course-after-london-attack-tweets/article/2624902
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-6-3
+  link: https://patch.com/us/white-house/trump-heads-golf-course-white-house-schedule-june-3-4
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-5-14
+  link: http://www.latimes.com/politics/la-pol-updates-everything-president-trump-s-day-in-tweets-sunday-may-1494816140-htmlstory.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-5-7
+  link: http://www.nj.com/politics/index.ssf/2017/05/trump_leaves_nj_after_quiet_weekend.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-5-6
+  link: https://twitter.com/mikememoli/status/860986891377815553?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.nj.com%2Fpolitics%2Findex.ssf%2F2017%2F05%2Fwhat_trump_did_on_day_2_in_bedminster_hint_he_golfed.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-5-5
+  link: https://twitter.com/realDonaldTrump/status/860479885566980096
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2017-5-4
+  link: http://www.mycentraljersey.com/story/news/politics/new-jersey/2017/05/03/quiet-somerset-hills-preparing-trump-weekend/310063001/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-4-30
+  link: http://thehill.com/homenews/news/331297-trump-travels-to-his-golf-club-in-va
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2017-4-22
+  link: https://www.inquisitr.com/4168604/melania-ivanka-join-donald-trump-at-d-c-dinner-on-april-22-photos-videos-from-trump-international-hotel/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-4-16
+  link: http://www.palmbeachpost.com/news/local/photos-president-donald-trump-easter-visit-mar-lago/qMLgJ4IEjjzMOjqglSTVrK/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-4-15
+  link: http://www.latimes.com/politics/la-pol-updates-everything-president-trump-s-day-in-tweets-saturday-april-1492315810-htmlstory.html
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-4-14
+  link: http://www.latimes.com/politics/la-pol-updates-everything-president-trump-s-day-in-tweets-friday-april-1492216274-htmlstory.html
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-4-13
+  link: https://www.politico.com/story/2017/04/trump-schedule-today-white-house-237191
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-4-9
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/04/09/palm-beach-palm-sunday-trump-visits-his-golf-course/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-4-8
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/04/09/palm-beach-palm-sunday-trump-visits-his-golf-course/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-4-7
+  link: https://www.ft.com/content/04178f4f-c46a-34d8-9672-236fa6c67d5f
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-4-6
+  link: https://www.ft.com/content/04178f4f-c46a-34d8-9672-236fa6c67d5f
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-4-2
+  link: http://thehill.com/homenews/senate/326933-rand-paul-says-he-had-great-time-golfing-with-trump-we-are-getting-closer-to
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-3-26
+  link: http://golfweek.com/2017/03/26/president-donald-trump-golf-weekend-virginia/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-3-25
+  link: http://thehill.com/homenews/administration/325773-president-heads-to-trump-golf-club-in-va-for-meetings
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-3-19
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/03/19/is-trump-outpacing-obama-in-presidential-golf/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-3-18
+  link: http://www.palmbeachpost.com/news/local/update-donald-trump-arrives-for-another-weekend-palm-beach/Dp1CxO5BFT4NlrV346XERM/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-3-17
+  link: http://www.palmbeachpost.com/news/local/updates-president-donald-trump-arrives-palm-beach/z6nzGyTt4nfTQ11KvNLJbP/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2017-3-11
+  link: http://www.nydailynews.com/news/national/saturday-president-trump-golfing-article-1.2995302
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-3-5
+  link: https://twitter.com/stevebruskCNN/status/838434300185935872
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-3-4
+  link: http://www.palmbeachpost.com/news/local/update-trump-mingles-with-mar-lago-guests-outside-charity-ball/xFRbgrtFYNamso8FXmO6PN/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-3-3
+  link: https://www.reuters.com/article/us-usa-trump-highlights/the-trump-presidency-on-march-3-at-250-p-m-et-idUSKBN16A26H?il=0
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2017-2-25
+  link: http://www.washingtonexaminer.com/trump-makes-unannounced-trip-to-trump-hotel-for-dinner/article/2615794
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-20
+  link: https://www.cbsnews.com/news/latest-trump-news-today-february-20-2017/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-2-19
+  link: https://twitter.com/ClearSportsLLC/status/833451332384198656
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-18
+  link: https://twitter.com/realDonaldTrump/status/832950628750127106
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-17
+  link: http://thehill.com/blogs/blog-briefing-room/news/319261-trump-returning-to-mar-a-lago-for-third-straight-weekend
+- location: Trump National Golf Club
+  city: Jupiter, Florida
+  date: 2017-2-12
+  link: https://www.nytimes.com/2017/02/12/us/politics/donald-trump-golf-obama.html?_r=0
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-2-11
+  link: https://www.instagram.com/p/BQYZ8n8Dtty/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-10
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/trump-schedule-today-234891
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-6
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/today-in-trumpworld-feb-6-234681
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-2-5
+  link: https://twitter.com/markknoller/status/828390136568246272
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-4
+  link: http://www.palmbeachpost.com/news/local/inside-look-president-trump-attends-red-cross-ball/yDAajQzFyYYcxy9w5Vz8BI/
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
+  date: 2017-2-3
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/trump-schedule-today-234597
