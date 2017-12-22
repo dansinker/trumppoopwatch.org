@@ -1,6 +1,14 @@
 poops:
 - location: Mar-a-Lago
   city: Palm Beach, Florida
+  date: 2017-12-22
+  link: http://www.palmbeachpost.com/news/breaking-news/trump-palm-beach-trump-private-helicopter-lands-mar-lago/ZRgoIJXIZm1WX4DJvXAJRK/
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2017-12-10
+  link: https://twitter.com/kylegriffin1/status/939872547960705024
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
   date: 2017-12-10
   link: https://twitter.com/kylegriffin1/status/939857268065161216
 - location: Mar-a-Lago
@@ -42,11 +50,11 @@ poops:
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-28
-  link: https://factba.se/topic/calendar
+  link: http://publicpool.kinja.com/subject-wh-in-town-pool-report-3-1819941695
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-10-28
-  link: https://twitter.com/kylegriffin1/status/924411018855534593
+  link: https://www.inquisitr.com/4585662/melania-donald-trumps-2-hour-date-night-photos-videos-via-instagrams-trump-international-hotel-location/
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-10-22
@@ -210,31 +218,27 @@ poops:
 - location: Trump National Golf club
   city: Potomac Falls, Virginia
   date: 2017-7-30
-  link: https://factba.se/topic/calendar
+  link: http://www.washingtonexaminer.com/trump-makes-43rd-visit-to-golf-club-on-sunday/article/2630129
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-7-29
-  link: https://factba.se/topic/calendar
+  link: http://abcnews.go.com/Politics/trump-dines-john-kelly-steve-mnuchin-wilbur-ross/story?id=48931131
 - location: Trump National Golf club
   city: Potomac Falls, Virginia
   date: 2017-7-23
-  link: https://factba.se/topic/calendar
+  link: https://www.washingtonpost.com/news/politics/wp/2017/07/31/trump-had-a-terrible-july-but-at-least-he-played-a-lot-of-golf/?utm_term=.c62d33fb62a1
 - location: Trump National Golf club
   city: Potomac Falls, Virginia
   date: 2017-7-22
-  link: https://factba.se/topic/calendar
+  link: https://www.washingtonpost.com/news/politics/wp/2017/07/31/trump-had-a-terrible-july-but-at-least-he-played-a-lot-of-golf/?utm_term=.c62d33fb62a1
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-16
-  link: https://factba.se/topic/calendar
-- location: Trump National Golf Club
-  city: Bedminster, New Jersey
-  date: 2017-7-16
-  link: https://factba.se/topic/calendar
+  link: http://www.nj.com/sports/index.ssf/2017/07/president_donald_trump_at_us_womens_open_live_upda_1.html
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-15
-  link: https://factba.se/topic/calendar
+  link: https://www.reuters.com/article/us-golf-women-uschamp-trump/golf-trumps-presence-felt-at-u-s-womens-open-idUSKBN1A00RQ
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-14
@@ -246,7 +250,7 @@ poops:
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-7-9
-  link: https://factba.se/topic/calendar
+  link: https://twitter.com/kylegriffin1/status/884054400062423040
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-7-4
@@ -254,47 +258,47 @@ poops:
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-3
-  link: https://factba.se/topic/calendar
+  link: https://www.politico.com/story/2017/07/03/trump-schedule-today-240195
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-2
-  link: https://factba.se/topic/calendar
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-7-1
-  link: https://factba.se/topic/calendar
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-6-30
-  link: https://factba.se/topic/calendar
+  link: http://www.nj.com/politics/index.ssf/2017/06/trump_lands_in_bedminster_for_july_4_weekend.html
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-6-25
-  link: https://factba.se/topic/calendar
+  link: https://thegolfnewsnet.com/golfnewsnetteam/2017/06/25/donald-trump-visited-golf-31st-time-president-105659/
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-6-24
-  link: https://factba.se/topic/calendar
+  link: http://thehill.com/blogs/blog-briefing-room/news/339302-trump-visits-his-virginia-golf-club-for-members-event
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-6-11
-  link: https://factba.se/topic/calendar
+  link: https://www.conservativedailynews.com/2017/06/president-donald-trumps-schedule-saturday-sunday-june-10-11-2017/
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-6-10
-  link: https://factba.se/topic/calendar
+  link: https://www.conservativedailynews.com/2017/06/president-donald-trumps-schedule-saturday-sunday-june-10-11-2017/
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-6-9
-  link: https://factba.se/topic/calendar
+  link: https://www.washingtonpost.com/video/national/trump-drives-golf-cart-on-golf-club-greens/2017/06/22/f6efe3fe-576e-11e7-840b-512026319da7_video.html?utm_term=.b38bea516546
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-6-4
-  link: https://factba.se/topic/calendar
+  link: http://www.washingtonexaminer.com/trump-heads-to-his-golf-course-after-london-attack-tweets/article/2624902
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-6-3
-  link: https://factba.se/topic/calendar
+  link: https://patch.com/us/white-house/trump-heads-golf-course-white-house-schedule-june-3-4
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-5-14
@@ -302,15 +306,15 @@ poops:
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-5-7
-  link: https://factba.se/topic/calendar
+  link: http://www.nj.com/politics/index.ssf/2017/05/trump_leaves_nj_after_quiet_weekend.html
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-5-6
-  link: https://factba.se/topic/calendar
+  link: https://twitter.com/mikememoli/status/860986891377815553?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.nj.com%2Fpolitics%2Findex.ssf%2F2017%2F05%2Fwhat_trump_did_on_day_2_in_bedminster_hint_he_golfed.html
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-5-5
-  link: https://factba.se/topic/calendar
+  link: https://twitter.com/realDonaldTrump/status/860479885566980096
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
   date: 2017-5-4
@@ -318,7 +322,7 @@ poops:
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-4-30
-  link: https://factba.se/topic/calendar
+  link: http://thehill.com/homenews/news/331297-trump-travels-to-his-golf-club-in-va
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-4-22
@@ -330,116 +334,116 @@ poops:
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-4-15
-  link: https://factba.se/topic/calendar
+  link: http://www.latimes.com/politics/la-pol-updates-everything-president-trump-s-day-in-tweets-saturday-april-1492315810-htmlstory.html
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-4-14
-  link: https://factba.se/topic/calendar
+  link: http://www.latimes.com/politics/la-pol-updates-everything-president-trump-s-day-in-tweets-friday-april-1492216274-htmlstory.html
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-4-13
-  link: https://factba.se/topic/calendar
+  link: https://www.politico.com/story/2017/04/trump-schedule-today-white-house-237191
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-4-9
-  link: https://factba.se/topic/calendar
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/04/09/palm-beach-palm-sunday-trump-visits-his-golf-course/
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-4-8
-  link: https://factba.se/topic/calendar
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/04/09/palm-beach-palm-sunday-trump-visits-his-golf-course/
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-4-7
-  link: https://factba.se/topic/calendar
+  link: https://www.ft.com/content/04178f4f-c46a-34d8-9672-236fa6c67d5f
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-4-6
-  link: https://factba.se/topic/calendar
+  link: https://www.ft.com/content/04178f4f-c46a-34d8-9672-236fa6c67d5f
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
-  date: 2017-4-1
-  link: https://factba.se/topic/calendar
+  date: 2017-4-2
+  link: http://thehill.com/homenews/senate/326933-rand-paul-says-he-had-great-time-golfing-with-trump-we-are-getting-closer-to
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-3-26
-  link: https://factba.se/topic/calendar
+  link: http://golfweek.com/2017/03/26/president-donald-trump-golf-weekend-virginia/
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-3-25
-  link: https://factba.se/topic/calendar
+  link: http://thehill.com/homenews/administration/325773-president-heads-to-trump-golf-club-in-va-for-meetings
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-3-19
-  link: https://factba.se/topic/calendar
+  link: http://postonpolitics.blog.palmbeachpost.com/2017/03/19/is-trump-outpacing-obama-in-presidential-golf/
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-3-18
-  link: https://factba.se/topic/calendar
+  link: http://www.palmbeachpost.com/news/local/update-donald-trump-arrives-for-another-weekend-palm-beach/Dp1CxO5BFT4NlrV346XERM/
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-3-17
-  link: https://factba.se/topic/calendar
+  link: http://www.palmbeachpost.com/news/local/updates-president-donald-trump-arrives-palm-beach/z6nzGyTt4nfTQ11KvNLJbP/
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2017-3-11
-  link: https://factba.se/topic/calendar
+  link: http://www.nydailynews.com/news/national/saturday-president-trump-golfing-article-1.2995302
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-3-5
-  link: https://factba.se/topic/calendar
+  link: https://twitter.com/stevebruskCNN/status/838434300185935872
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-3-4
-  link: https://factba.se/topic/calendar
+  link: http://www.palmbeachpost.com/news/local/update-trump-mingles-with-mar-lago-guests-outside-charity-ball/xFRbgrtFYNamso8FXmO6PN/
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-3-3
-  link: https://factba.se/topic/calendar
+  link: https://www.reuters.com/article/us-usa-trump-highlights/the-trump-presidency-on-march-3-at-250-p-m-et-idUSKBN16A26H?il=0
 - location: Trump International Hotel
   city: Washington DC
   date: 2017-2-25
-  link: https://factba.se/topic/calendar
+  link: http://www.washingtonexaminer.com/trump-makes-unannounced-trip-to-trump-hotel-for-dinner/article/2615794
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-2-20
-  link: https://factba.se/topic/calendar
+  link: https://www.cbsnews.com/news/latest-trump-news-today-february-20-2017/
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-2-19
-  link: https://factba.se/topic/calendar
-- location: Trump International Golf Club
-  city: West Palm Beach, Florida
+  link: https://twitter.com/ClearSportsLLC/status/833451332384198656
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
   date: 2017-2-18
-  link: https://factba.se/topic/calendar
+  link: https://twitter.com/realDonaldTrump/status/832950628750127106
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-2-17
-  link: https://factba.se/topic/calendar
+  link: http://thehill.com/blogs/blog-briefing-room/news/319261-trump-returning-to-mar-a-lago-for-third-straight-weekend
 - location: Trump National Golf Club
   city: Jupiter, Florida
   date: 2017-2-12
-  link: https://twitter.com/realDonaldTrump/status/934031535757582336
+  link: https://www.nytimes.com/2017/02/12/us/politics/donald-trump-golf-obama.html?_r=0
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-2-11
-  link: https://factba.se/topic/calendar
+  link: https://www.instagram.com/p/BQYZ8n8Dtty/
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-2-10
-  link: https://factba.se/topic/calendar
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/trump-schedule-today-234891
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-2-6
-  link: https://factba.se/topic/calendar
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/today-in-trumpworld-feb-6-234681
 - location: Trump International Golf Club
   city: West Palm Beach, Florida
   date: 2017-2-5
-  link: https://factba.se/topic/calendar
-- location: Trump International Golf Club
-  city: West Palm Beach, Florida
+  link: https://twitter.com/markknoller/status/828390136568246272
+- location: Mar-a-Lago
+  city: Palm Beach, Florida
   date: 2017-2-4
-  link: https://factba.se/topic/calendar
+  link: http://www.palmbeachpost.com/news/local/inside-look-president-trump-attends-red-cross-ball/yDAajQzFyYYcxy9w5Vz8BI/
 - location: Mar-a-Lago
   city: Palm Beach, Florida
   date: 2017-2-3
-  link: https://factba.se/topic/calendar
+  link: https://www.politico.com/blogs/donald-trump-administration/2017/02/trump-schedule-today-234597
