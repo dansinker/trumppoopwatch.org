@@ -1,5 +1,45 @@
 poops:
 - location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-07-08
+  link: https://www.nytimes.com/2018/07/09/us/politics/trump-supreme-court-nomination.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-07-07
+  link: https://www.nj.com/politics/index.ssf/2018/07/welcome_back_trump_this_evening_in_nj_after_montana_rally.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-07-06
+  link: https://www.nj.com/politics/index.ssf/2018/07/welcome_back_trump_this_evening_in_nj_after_montana_rally.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-07-05
+  link: https://www.nj.com/politics/index.ssf/2018/07/welcome_back_trump_this_evening_in_nj_after_montana_rally.html
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2018-07-04
+  link: https://www.usatoday.com/story/news/politics/2018/07/04/donald-trump-july-fourth/757655002/
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-07-01
+  link: https://www.nj.com/politics/index.ssf/2018/06/hes_back_trump_arrives_in_nj_for_weekend_at_bedmin.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-06-30
+  link: https://www.nj.com/politics/index.ssf/2018/06/hes_back_trump_arrives_in_nj_for_weekend_at_bedmin.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
+  date: 2018-06-29
+  link: https://www.nj.com/politics/index.ssf/2018/06/hes_back_trump_arrives_in_nj_for_weekend_at_bedmin.html
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2018-06-24
+  link: https://www.youtube.com/watch?v=xt5QFBStURI
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2018-06-19
+  link: https://www.politico.com/story/2018/06/20/donald-trump-fundraising-international-hotel-658610
+- location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2018-06-17
   link: https://publicpool.kinja.com/subject-in-town-print-pool-3-departing-golf-club-1826902568
