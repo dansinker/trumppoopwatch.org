@@ -5,4 +5,10 @@ layout: home
 
   <p>His last visit to his own property was {{ site.data.trumps.poops[0].location }} in {{ site.data.trumps.poops[0].city }} on {{ site.data.trumps.poops[0].date | date: "%B %-d" }}. <a href="{{ site.data.trumps.poops[0].link }}">[source]</a></p>
 
-  <p>When else has Trump pooped? <a href="/pooparchive.html">We're keeping a full archive.</a></p>
+{% assign counter = -1 %}
+{% for poop in site.data.trumps.poops %}
+ {% assign counter = counter | plus: 1  %}
+{% endfor %}
+
+
+  <p>Trump has pooped {{ counter }} other times too. <a href="/pooparchive.html">Check out the full poop count.</a></p>
