@@ -1,4 +1,20 @@
 poops:
+- location: Trump International Hotel
+  city: Washington DC
+  date: 2018-09-12
+  link: https://twitter.com/jdawsey1/status/1039936884095574016?s=19
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2018-09-08
+  link: https://thegolfnewsnet.com/golfnewsnetteam/2018/09/08/donald-trump-visited-golf-155th-time-president-110737/
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2018-09-02
+  link: https://www.washingtonpost.com/politics/2018/09/07/trump-has-visited-trump-property-or-held-rally-more-than-half-days-past-three-months/?utm_term=.85b665300897
+- location: Trump National Golf Club
+  city: Potomac Falls, Virginia
+  date: 2018-09-01
+  link: https://www.cbsnews.com/news/trump-visits-golf-course-as-washington-mourns-john-mccain-today-2018-09-01/
 - location: Trump National Golf Club
   city: Potomac Falls, Virginia
   date: 2018-08-26
