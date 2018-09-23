@@ -1,8 +1,16 @@
 poops:
 - location: Trump National Golf Club
   city: Bedminster, New Jersey
+  date: 2018-09-23
+  link: https://www.nj.com/politics/index.ssf/2018/09/guess_whos_returning_to_jersey_next_week_hint_hes.html
+- location: Trump National Golf Club
+  city: Bedminster, New Jersey
   date: 2018-09-22
   link: https://publicpool.kinja.com/subject-travel-pool-report-18-1829240868
+- location: Trump International Hotel
+  city: Las Vegas, Nevada
+  date: 2018-09-21
+  link: https://lasvegassun.com/news/2018/sep/21/trump-meets-with-supporters-visits-va-in-las-vegas/
 - location: Trump International Hotel
   city: Las Vegas, Nevada
   date: 2018-09-20

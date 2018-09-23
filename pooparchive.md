@@ -3,6 +3,7 @@ layout: home
 ---
 <div id="archive">
 {% assign counter = 0 %}
+{% assign NJcount = 0 %}
 {% for poop in site.data.trumps.poops %}
  {% assign counter = counter | plus: 1  %}
 {% endfor %}
