@@ -1,4 +1,12 @@
 poops:
+- location: Trump National Golf Club
+  city: Jupiter, Florida
+  date: 2019-02-02
+  link: https://twitter.com/realDonaldTrump/status/1091760712756744192
+- location: Mar a Lago
+  city: Palm Beach, Florida
+  date: 2019-02-01
+  link: https://twitter.com/markknoller/status/1091492005933400064
 - location: Trump International Hotel
   city: washington DC
   date: 2019-01-28
