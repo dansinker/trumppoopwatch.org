@@ -1,4 +1,8 @@
 poops:
+- location: Trump International Golf Club
+  city: West Palm Beach, Florida
+  date: 2019-02-16
+  link: https://twitter.com/jiveDurkey/status/1096780133611028480
 - location: Mar a Lago
   city: Palm Beach, Florida
   date: 2019-02-15
@@ -16,7 +20,7 @@ poops:
   date: 2019-02-01
   link: https://twitter.com/markknoller/status/1091492005933400064
 - location: Trump International Hotel
-  city: washington DC
+  city: Washington DC
   date: 2019-01-28
   link: https://twitter.com/markknoller/status/1090031508470022144
 - location: Trump International Golf Club
