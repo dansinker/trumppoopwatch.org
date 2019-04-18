@@ -1,4 +1,12 @@
 poops:
+- location: Trump National Golf Course
+  city: Potomac Falls, Virginia
+  date: 2019-04-14
+  link: https://thegolfnewsnet.com/golfnewsnetteam/2019/04/14/donald-trump-visited-the-golf-course-for-the-181st-and-182nd-times-as-president-112996/
+- location: Trump National Golf Course
+  city: Potomac Falls, Virginia
+  date: 2019-04-13
+  link: https://thegolfnewsnet.com/golfnewsnetteam/2019/04/14/donald-trump-visited-the-golf-course-for-the-181st-and-182nd-times-as-president-112996/
 - location: Trump International Hotel
   city: Las Vegas, Nevada
   date: 2019-04-06
@@ -7,7 +15,7 @@ poops:
   city: Las Vegas, Nevada
   date: 2019-04-05
   link: https://publicpool.kinja.com/subject-wh-travel-pool-report-27-lid-1833856159
-- location: Trump National Golf Club 
+- location: Trump National Golf Club
   city: Rancho Palos Verdes, California
   date: 2019-04-05
   link: https://www.latimes.com/local/lanow/la-me-trump-palos-verdes-stop-20190405-story.html
